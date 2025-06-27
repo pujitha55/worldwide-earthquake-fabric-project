@@ -106,7 +106,7 @@ earthquake-fabric/
 
 **Lakshmi Pujitha Gorantla**  
  Built as part of a Microsoft Fabric learning project  
- [LinkedIn Profile](www.linkedin.com/in/lakshmi-pujitha-gorantla)
+ [LinkedIn Profile] https://www.linkedin.com/in/lakshmi-pujitha-gorantla/
 
 ---
 
